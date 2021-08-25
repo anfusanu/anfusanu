@@ -5,3 +5,6 @@
 - 📫 How to reach me ... anfusanu@gmail.com
 
 
+<a href="https://github.com/shuhaibzahir">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anfuspotai&show_icons=true&theme=vue-dark" />
+</a>

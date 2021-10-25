@@ -14,7 +14,7 @@
 
 
 [![Gmail Badge](https://img.shields.io/badge/-anfuspotai-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sameeh4321@gmail.com)](mailto:anfuspotai@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Anfus.Pottayi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anfus
+[![Linkedin Badge](https://img.shields.io/badge/-Anfus-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anfus/)](https://www.linkedin.com/in/anfus/)
 [![Website Badge](https://img.shields.io/badge/-Anfus-green?style=flat&logo=Google-Chrome&logoColor=white&link=https://anfus.xyz)](https://anfus.xyz)
 [![Instagram Badge](https://img.shields.io/badge/-@anfusanu-pink?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/anfusanu/)](https://www.instagram.com/anfusanu/)
 

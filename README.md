@@ -26,7 +26,7 @@ developing web applications in a test driven environment.I am flexible person wh
 
 
 
-- 💼 any freelance work? do reach, [email](mailto:anfuspotai.com) 
+- 💼 any freelance work? do reach, [email](mailto:anfuspotai@gmail.com) 
 - 💬 ask me about anything, i am happy to help
 
 
@@ -59,7 +59,7 @@ developing web applications in a test driven environment.I am flexible person wh
 
 <p align="center">
     <a href="https://github.com/Sameeh7383/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anfu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anfupotai&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anfu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anfuspotai&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 

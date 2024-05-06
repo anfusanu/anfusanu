@@ -72,5 +72,3 @@ developing web applications in a test driven environment.I am flexible person wh
     <a href="https://github.com/anfuspotai/github-readme-stats"><img alt=Anfus Github Stats" src="https://github-readme-stats.vercel.app/api?username=anfuspotai&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/anfuspotai/github-readme-stats"><img alt="Anfus Potai's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anfuspotai&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-
-<a href="https://github.com/anfuspotai/github-readme-activity-graph"><img alt="Anfus Potai" src="https://activity-graph.herokuapp.com/graph?username=anfuspotai&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>

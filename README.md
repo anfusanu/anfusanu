@@ -13,12 +13,12 @@
  Hi there 👋
 
 
-[![Gmail Badge](https://img.shields.io/badge/-anfuspotai-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sameeh4321@gmail.com)](mailto:anfuspotai@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-anfuspotai-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mail@anfus.work)](mailto:mail@anfus.work)
 [![Linkedin Badge](https://img.shields.io/badge/-Anfus-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anfus/)](https://www.linkedin.com/in/anfus/)
-[![Website Badge](https://img.shields.io/badge/-Anfus-green?style=flat&logo=Google-Chrome&logoColor=white&link=https://anfus.xyz)](https://anfus.xyz)
+[![Website Badge](https://img.shields.io/badge/-Anfus-green?style=flat&logo=Google-Chrome&logoColor=white&link=https://anfus.work)](https://anfus.work)
 [![Instagram Badge](https://img.shields.io/badge/-@anfusanu-pink?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/anfusanu/)](https://www.instagram.com/anfusanu/)
 
-Hi, i'm [Anfus](https://anfus.xyz/),Dedicated self-taught developer with robust problem-solving skills and proven experience in 
+Hi, i'm [Anfus](https://anfus.work/),Dedicated self-taught developer with robust problem-solving skills and proven experience in 
 developing web applications in a test driven environment.I am flexible person who is interested challenging myself and acquire any piece of knowledge from anywhere I could. I am the kind of person who acquire knowledge to apply what I have learned and I experiment with it to push myself into new heights.
 
 
@@ -26,8 +26,8 @@ developing web applications in a test driven environment.I am flexible person wh
 
 
 
-- 💼 any freelance work? do reach, [email](mailto:anfuspotai@gmail.com) 
-- 💬 ask me about anything, i am happy to help
+- 💼 any freelance work? do reach, [email](mailto:mail@anfus.work) 
+- 💬 ask me about anything, I'm happy to help
 
 
 
